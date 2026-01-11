@@ -1,0 +1,12 @@
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\bin\Debug\net10.0\ModelsClass.Common.deps.json
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\bin\Debug\net10.0\ModelsClass.Common.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\bin\Debug\net10.0\ModelsClass.Common.pdb
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\obj\Debug\net10.0\ModelsClass.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\obj\Debug\net10.0\ModelsClass.Common.AssemblyInfoInputs.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\obj\Debug\net10.0\ModelsClass.Common.AssemblyInfo.cs
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\obj\Debug\net10.0\ModelsClass.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\obj\Debug\net10.0\ModelsClass.Common.sourcelink.json
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\obj\Debug\net10.0\ModelsClass.Common.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\obj\Debug\net10.0\refint\ModelsClass.Common.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\obj\Debug\net10.0\ModelsClass.Common.pdb
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\Solution-sln\ModelsClass.Common\obj\Debug\net10.0\ref\ModelsClass.Common.dll

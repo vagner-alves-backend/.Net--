@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EstudandoSolution.CSharp.Commons.Console/EstudandoSolution.CSharp.Commons.Console.csproj" />
+  <Project Path="EstudandoSolution.CSharp.Commons.Login/EstudandoSolution.CSharp.Commons.Login.csproj" />
+</Solution>

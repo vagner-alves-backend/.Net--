@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EstudandoSolution.CSharp.Commons.Login/1.0.0": {
+        "runtime": {
+          "EstudandoSolution.CSharp.Commons.Login.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstudandoSolution.CSharp.Commons.Login/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\bin\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.deps.json
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\bin\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.dll
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\bin\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.pdb
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\obj\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\obj\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.AssemblyInfoInputs.cache
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\obj\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.AssemblyInfo.cs
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\obj\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.csproj.CoreCompileInputs.cache
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\obj\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.sourcelink.json
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\obj\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.dll
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\obj\Debug\net10.0\refint\EstudandoSolution.CSharp.Commons.Login.dll
+c:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\obj\Debug\net10.0\EstudandoSolution.CSharp.Commons.Login.pdb
+C:\Users\Vágner Alves\OneDrive\Documentos\.Net--\_Modulos\EstudandoSolution.CSharp.Commons\EstudandoSolution.CSharp.Commons.Login\obj\Debug\net10.0\ref\EstudandoSolution.CSharp.Commons.Login.dll

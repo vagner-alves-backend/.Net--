@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "MenuDeAcesso/1.0.0": {
+        "dependencies": {
+          "ModelsClass.Common": "1.0.0"
+        },
         "runtime": {
           "MenuDeAcesso.dll": {}
+        }
+      },
+      "ModelsClass.Common/1.0.0": {
+        "runtime": {
+          "ModelsClass.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "MenuDeAcesso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelsClass.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
