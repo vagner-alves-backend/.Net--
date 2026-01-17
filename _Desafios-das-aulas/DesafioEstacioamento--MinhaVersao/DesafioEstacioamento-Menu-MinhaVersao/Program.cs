@@ -73,7 +73,7 @@ do
                 Console.WriteLine("-Qual é seu veiculo? ");
                 list.Vehicle[parkingFree] = Console.ReadLine();
 
-                Console.WriteLine($"Sua vaga é a --{vacancy}");
+                Console.WriteLine($"Sua vaga é a -[ {vacancy} ]");
                 add.ParkingSpaces[parkingFree] = vacancy;
                 list.Vacancy[parkingFree] = vacancy;
                 list.Name[parkingFree] = add.Name;
