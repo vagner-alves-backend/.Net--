@@ -144,3 +144,12 @@ do
             break;
     }
 } while (!finishTask);
+
+
+/*         
+        Obs..: Para que minha versão não fosse influenciada, eu a desenvolvi antes de assistir às aulas relacionadas ao projeto.
+        Portanto, caso eu tenha cometido algum erro na minha versão ou tenha feito algo desnecessário, isso não tem a influência do
+        professor, tudo foi feito apenas pela minha própria lógica no momento. 
+        --Caso deseje ver a versão desse mesmo projeto feita com o auxílio do professor, basta conferir na pasta com ess -e projeto que 
+        não tenha escrito [ MinhaVersão ] no final.
+*/
