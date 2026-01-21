@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento--MinhaVersao\\DesafioEstacioamento-ModelsClass-MinhaVersao\\DesafioEstacioamento-ModelsClass-MinhaVersao.csproj": {}
+    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento\\DesafioEstacioamento--VersãoFinal\\DesafioEstacioamento-Main-VersãoFinal\\DesafioEstacioamento-Main-VersãoFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento--MinhaVersao\\DesafioEstacioamento-ModelsClass-MinhaVersao\\DesafioEstacioamento-ModelsClass-MinhaVersao.csproj": {
+    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento\\DesafioEstacioamento--VersãoFinal\\DesafioEstacioamento-Main-VersãoFinal\\DesafioEstacioamento-Main-VersãoFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento--MinhaVersao\\DesafioEstacioamento-ModelsClass-MinhaVersao\\DesafioEstacioamento-ModelsClass-MinhaVersao.csproj",
-        "projectName": "DesafioEstacioamento-ModelsClass-MinhaVersao",
-        "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento--MinhaVersao\\DesafioEstacioamento-ModelsClass-MinhaVersao\\DesafioEstacioamento-ModelsClass-MinhaVersao.csproj",
+        "projectUniqueName": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento\\DesafioEstacioamento--VersãoFinal\\DesafioEstacioamento-Main-VersãoFinal\\DesafioEstacioamento-Main-VersãoFinal.csproj",
+        "projectName": "DesafioEstacioamento-Main-VersãoFinal",
+        "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento\\DesafioEstacioamento--VersãoFinal\\DesafioEstacioamento-Main-VersãoFinal\\DesafioEstacioamento-Main-VersãoFinal.csproj",
         "packagesPath": "C:\\Users\\Vágner Alves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento--MinhaVersao\\DesafioEstacioamento-ModelsClass-MinhaVersao\\obj\\",
+        "outputPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\DioMe-Curso-CSharp\\_Desafios-das-aulas\\DesafioEstacioamento\\DesafioEstacioamento--VersãoFinal\\DesafioEstacioamento-Main-VersãoFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vágner Alves\\AppData\\Roaming\\NuGet\\NuGet.Config"
