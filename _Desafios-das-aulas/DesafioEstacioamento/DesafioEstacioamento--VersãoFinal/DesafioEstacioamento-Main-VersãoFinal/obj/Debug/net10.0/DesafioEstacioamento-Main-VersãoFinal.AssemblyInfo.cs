@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioEstacioamento-Main-VersãoFinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38558332e51e3bf4de5451a11b5ea825399f2894")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+064c0d1fd9f99cc32314dbb7c9263acaf1a49bee")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioEstacioamento-Main-VersãoFinal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioEstacioamento-Main-VersãoFinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
