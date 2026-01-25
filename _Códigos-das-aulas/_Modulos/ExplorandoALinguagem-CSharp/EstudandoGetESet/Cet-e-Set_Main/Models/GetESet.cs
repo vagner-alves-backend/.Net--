@@ -10,8 +10,8 @@ namespace Cet_e_Set_Main.Models
 {
     public static class GetESet
     {
-        private static string? _number;
-        private static string? Number
+        private static string _number = "";
+        private static string Number
         {
             get => _number;
             set
