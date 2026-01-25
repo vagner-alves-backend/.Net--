@@ -23,10 +23,10 @@ namespace EstudandoModulos.Models
             {
                 Console.Write(
                     "-Deseja logar como..:\n"+
-                    "1- Admin.\n"+
-                    "2- Professor.\n"+
-                    "3- Aluno.\n"+
-                    "4- Finalizar..: "
+                    "1__Admin_______\n"+
+                    "2__Professor___\n"+
+                    "3__Aluno_______\n"+
+                    "4__Finalizar_-> "
                 );
                 opcaoSelecionada = Console.ReadLine();
                 _nivelDeAcesso = opcaoSelecionada switch

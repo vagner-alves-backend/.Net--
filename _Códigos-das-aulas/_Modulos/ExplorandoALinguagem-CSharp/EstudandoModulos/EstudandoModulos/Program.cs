@@ -19,6 +19,8 @@ while (loginValid)
         case "professor":
             break;
         case "aluno":
+            Console.WriteLine("Entrou.");
+            Console.ReadLine();
             break;
         default:
             Console.WriteLine("\t-Login não é valido.");

@@ -7,7 +7,7 @@ namespace EstudandoModulos.Models
 {
     public class Admin : Aluno
     {
-        private readonly List<Aluno> _alunos = [];
+        protected List<Aluno> _alunos = [new("Vágner", "123")];
         private readonly string? _name;
         private readonly string? _senha;
 
@@ -23,7 +23,6 @@ namespace EstudandoModulos.Models
 
         public void PrivilegiosDeAdm()
         {
-            Console.WriteLine("Entrou.");
             bool continuar = true;
             string? finalizar;
             while (continuar)
@@ -60,7 +59,7 @@ namespace EstudandoModulos.Models
             }
             
         }
-        private string? MenuAdimin()
+        private static string? MenuAdimin()
         {
             Console.Clear();
             Console.Write(

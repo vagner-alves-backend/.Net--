@@ -23,5 +23,7 @@ namespace EstudandoModulos.Models
         public string? GetAlunoName() => _alunoName;
         public string? GetAlunoSenha() => _alunoSenha;
         public string? GetAlunoCurso() => _alunoCurso;
+
+        
     }
 }

@@ -1,6 +1,9 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography;
 using System.Threading.Tasks;
 
 namespace EstudandoModulos.Models
@@ -8,8 +11,6 @@ namespace EstudandoModulos.Models
     public class Faculdade : Admin
     {
         private readonly List<Admin> _admins = [new("Lucas", "123"), new("Matheus", "123"), new("Laura", "123")];
-        //private readonly List<Admin> _senhas = [];
-        private readonly List<string?> _alunos = ["Vágner"];
 
         private string? _name = "";
         private string? _curso = "";
@@ -28,17 +29,40 @@ namespace EstudandoModulos.Models
         public void SetSenha(string? senha) => _senha = senha;
         public void SetCurso(string? curso) => _curso = curso;
 
-        public bool GetAdmin()
+        private bool CheckLogin(string? nivel)
         {
             bool loginValido = false;
-            for (int index = 0; index < _admins.Count; index++)
+            switch (nivel)
             {
-                if (_admins[index].GetAdminName() == _name && _admins[index].GetAdminSenha() == _senha)
-                {
-                    loginValido = true;
-                }
+                case "admin":
+                    for (int index = 0; index < _admins.Count; index++)
+                    {
+                        if (_admins[index].GetAdminName() == _name && _admins[index].GetAdminSenha() == _senha)
+                        {
+                            loginValido = true;
+                        }
+                    }
+                    break;
+                case "professor":
+                    break;
+                case "aluno":
+                    for (int index = 0; index < _alunos.Count; index++)
+                    {
+                        if (_alunos[index].GetAlunoName() == _name && _alunos[index].GetAlunoSenha() == _senha)
+                        {
+                            loginValido = true;
+                        }
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Login invalido.");
+                    loginValido = false;
+                    break;
             }
+
             return loginValido;
         }
+
+        public bool LoginExiste(string? nivel) => CheckLogin(nivel);
     }
 }

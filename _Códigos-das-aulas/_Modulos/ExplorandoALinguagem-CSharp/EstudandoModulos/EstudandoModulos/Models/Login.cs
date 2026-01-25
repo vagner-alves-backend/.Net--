@@ -34,9 +34,7 @@ namespace EstudandoModulos.Models
                     Console.Write("-Senha..: \n");
                     break;
                 case "aluno":
-                    Console.Write("-Nome...: \n");
-                    Console.Write("-Curso..: \n");
-                    Console.Write("-Senha..: \n");
+                    LoginAluno();
                     break;
                 case "fim":
                     Console.Clear();
@@ -62,9 +60,22 @@ namespace EstudandoModulos.Models
             Console.Write("-Senha.: ");
             SetSenha(Console.ReadLine());
 
-            _loginValido = GetAdmin();
+            _loginValido = LoginExiste("admin");
         }
+        private void LoginAluno()
+        {
+            Console.Clear();
+            Console.WriteLine(
+                "-   Login Aluno\n"+
+                "--------------------"
+            );
+            Console.Write("-Nome...: ");
+            SetName(Console.ReadLine());
+            Console.Write("-Senha..: ");
+            SetSenha(Console.ReadLine());
 
+            _loginValido = LoginExiste("aluno");
+        }
         public bool VerifiqueLogin() => _loginValido;
     }
 }
