@@ -9,12 +9,14 @@ namespace EstudandoModulos.Models
     public class Login : Faculdade
     {
         private bool _loginValido = false;
-        private readonly string? _nivelDeAcesso = "";
+        private string? _nivelDeAcesso;
+        public Login() : this("NaN"){}
         public Login(string? acesso)
         {
             _nivelDeAcesso = acesso;
         }
 
+        public void SetAcesso(string? acesso) => _nivelDeAcesso = acesso;
         public void LoginUser()
         {
             Console.WriteLine(
@@ -36,6 +38,11 @@ namespace EstudandoModulos.Models
                     Console.Write("-Curso..: \n");
                     Console.Write("-Senha..: \n");
                     break;
+                case "fim":
+                    Console.Clear();
+                    Console.WriteLine("\t\tFim de execulção..");
+                    _loginValido = false;
+                    break;
                 default:
                     Console.WriteLine("Nível de acesso não informado.");
                     break;
@@ -51,9 +58,9 @@ namespace EstudandoModulos.Models
                 "--------------------"
             );
             Console.Write("-Name..: ");
-            GetName(Console.ReadLine());
+            SetName(Console.ReadLine());
             Console.Write("-Senha.: ");
-            GetSenha(Console.ReadLine());
+            SetSenha(Console.ReadLine());
 
             _loginValido = GetAdmin();
         }
