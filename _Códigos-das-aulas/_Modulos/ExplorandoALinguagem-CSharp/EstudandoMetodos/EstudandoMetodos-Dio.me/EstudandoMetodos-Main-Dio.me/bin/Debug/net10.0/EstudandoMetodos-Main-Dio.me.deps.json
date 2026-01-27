@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EstudandoMetodos-Main-Dio.me/1.0.0": {
+        "runtime": {
+          "EstudandoMetodos-Main-Dio.me.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstudandoMetodos-Main-Dio.me/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
