@@ -17,6 +17,7 @@ if (validDate)
     Console.WriteLine($"Data invalida..: {dataAtual}");
 }
 
+//      Formatação bruta de cpf ---
 // string? cpf = "12334545667";
 // string? moldeCpf = "###.###.###-##";
 // int positionAlgarismo = 0;
