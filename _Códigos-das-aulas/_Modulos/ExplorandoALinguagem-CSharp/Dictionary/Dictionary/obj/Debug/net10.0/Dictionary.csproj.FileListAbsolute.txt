@@ -1,0 +1,15 @@
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\bin\Debug\net10.0\Dictionary.exe
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\bin\Debug\net10.0\Dictionary.deps.json
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\bin\Debug\net10.0\Dictionary.runtimeconfig.json
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\bin\Debug\net10.0\Dictionary.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\bin\Debug\net10.0\Dictionary.pdb
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\Dictionary.AssemblyInfo.cs
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\Dictionary.sourcelink.json
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\Dictionary.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\refint\Dictionary.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\Dictionary.pdb
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\Dictionary.genruntimeconfig.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\DioMe-Curso-CSharp\_Códigos-das-aulas\_Modulos\ExplorandoALinguagem-CSharp\Dictionary\Dictionary\obj\Debug\net10.0\ref\Dictionary.dll
