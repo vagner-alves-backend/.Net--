@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿using EstudandoTuplas.Models;
+Console.Clear();
 
 var (name, idade) = ("vágner", 20);
 Console.WriteLine(
@@ -27,3 +28,26 @@ Console.WriteLine(
     $"Idade: {tupla.age}\n"+
     "--------------------"
 );
+
+
+// com métodos
+Console.WriteLine("-------------------------------------------");
+TuplasEmMetodos tuplasMetodos = new();
+(bool sucesso, string[] linhas, int qunatasLinhas) = tuplasMetodos.LerArquivo();
+
+Console.WriteLine(
+    "---Leu o arquivo..: \n"+
+    $"Leu o arquivo..:\t{sucesso}\n"
+);
+
+if (sucesso == true)
+{
+    Console.WriteLine("--Conteúdo..: ");
+    foreach (string linha in linhas)
+    {
+        Console.WriteLine($"\t{linha}");
+    }
+}
+
+Console.WriteLine($"Quantidade de linhas..: {qunatasLinhas}");
+Console.WriteLine("-------------------------------------------");
