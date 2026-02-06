@@ -1,6 +1,6 @@
-Hambúrguer
-Pizza
-HotDog
-Batata-Frita
-Coca-cola
-Suco
+Hambúrguer......R$ 35,54
+Pizza...........R$ 68,99
+HotDog..........R$ 23,45
+Batata-Frita....R$ 17,00
+Coca-cola.......R$ 14,99
+Suco............R$ 3,0

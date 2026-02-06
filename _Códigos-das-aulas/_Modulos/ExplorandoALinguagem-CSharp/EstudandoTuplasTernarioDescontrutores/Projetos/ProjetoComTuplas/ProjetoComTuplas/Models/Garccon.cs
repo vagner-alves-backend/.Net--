@@ -9,7 +9,7 @@ namespace ProjetoComTuplas.Models
 {
     public class Garccon : Cliente
     {
-        private readonly List<(string? name, List<string?>)> _comandas = new();
+        private readonly List<(string? name, List<string?> pedidos)> _comandas = new();
         public void SetComanda()
         {
             _comandas.Add(new(GetName(), new(GetPedidos())));
@@ -26,6 +26,7 @@ namespace ProjetoComTuplas.Models
                     {
                         Console.WriteLine($"\t-{item}");
                     }
+                    Console.WriteLine($"---Conta.................R$ {GetSomaConta(pedidos)}");
                 }   
             } else
             {
