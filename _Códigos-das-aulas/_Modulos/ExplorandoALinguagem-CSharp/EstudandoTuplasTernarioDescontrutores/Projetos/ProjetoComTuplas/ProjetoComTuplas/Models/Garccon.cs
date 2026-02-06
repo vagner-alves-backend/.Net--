@@ -1,34 +1,35 @@
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 
 namespace ProjetoComTuplas.Models
 {
     public class Garccon : Cliente
     {
-        private List<(string? nome, List<string> pedidos)> _pedidos = [];
-        public void AnotarComanda()
+        private readonly List<(string? name, List<string?>)> _comandas = new();
+        public void SetComanda()
         {
-            _pedidos.Add(new(name, Comanda()));
+            _comandas.Add(new(GetName(), new(GetPedidos())));
         }
 
-        public void ImprimaAsComandas()
+        public void PrintComandas()
         {
-            Console.Clear();
-            if (_pedidos.Count > 0)  
+            if (_comandas.Count != 0)
             {
-                int c = 0;
-                while (c < _pedidos.Count)
+                foreach ((string? name, List<string?> pedidos) in _comandas)
                 {
-                    Console.WriteLine($"---{_pedidos[c].nome}");
-                    foreach (string? item in _pedidos[c].pedidos)
+                    Console.WriteLine($"---{name}");
+                    foreach (string? item in pedidos)
                     {
                         Console.WriteLine($"\t-{item}");
                     }
-                    Console.WriteLine("-------------------------");
-                    c++;
-                }
+                }   
+            } else
+            {
+                Console.WriteLine("Não a comandas registradas.");
             }
         }
     }

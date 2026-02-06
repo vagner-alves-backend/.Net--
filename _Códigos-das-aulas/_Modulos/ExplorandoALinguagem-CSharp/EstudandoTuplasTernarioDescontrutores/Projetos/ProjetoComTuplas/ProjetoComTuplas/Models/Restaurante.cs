@@ -8,19 +8,24 @@ namespace ProjetoComTuplas.Models
     public class Restaurante
     {
         private readonly string _filePath = "Arquivos\\cardapio.txt";
-        public string[] GetCardapio()
+        private List<string?> SetCardapio()
         {
-            string[] cardapio = [];
+            List<string?> cardapio = [];
             try
             {
-                cardapio = File.ReadAllLines(_filePath);
-            } catch (Exception ex)
+                string[]? arquivoDoCardapio = File.ReadAllLines(this._filePath);
+                foreach (string? item in arquivoDoCardapio)
+                {
+                    cardapio.Add(item);
+                }
+            } catch(Exception ex) 
             {
-                Console.WriteLine($"Não foi possível abrir o cardapio.\n[Erro]: {ex.Message}");
+                Console.Clear();
+                Console.WriteLine($"[Erro]: {ex.Message}");
             }
             return cardapio;
         }
-    }
 
-    
+        public List<string?> GetCardapio() => SetCardapio();
+    }
 }
