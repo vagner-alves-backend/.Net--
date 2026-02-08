@@ -1,5 +1,22 @@
-{
-  "Name": "Vágner Alves",
-  "Idade": 20,
-  "DataNascimento": "06/03/2005"
-}
+[
+  {
+    "Name": "Vágner Alves",
+    "Idade": 20,
+    "DataNascimento": "06/03/2005"
+  },
+  {
+    "Name": "Lucas Mendes",
+    "Idade": 21,
+    "DataNascimento": "07/05/2004"
+  },
+  {
+    "Name": "Sofia Lorenz",
+    "Idade": 18,
+    "DataNascimento": "10/17/2007"
+  },
+  {
+    "Name": "Sabrine Gomes",
+    "Idade": 19,
+    "DataNascimento": "04/11/2006"
+  }
+]
